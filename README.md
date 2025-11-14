@@ -89,4 +89,4 @@ O conjunto de dados contém informações sobre salários de profissionais de Ci
    ```bash
    pip install -r requirements.txt
    ```
-4. Execute o notebook `gs-data-science.ipynb`# DATA-SCIENCE-GS-2025
+4. Execute o notebook `gs-data-science.ipynb`
