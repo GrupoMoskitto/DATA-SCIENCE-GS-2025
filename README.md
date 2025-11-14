@@ -4,9 +4,9 @@
 
 
 ## Equipe
-- [Gabriel Couto Ribeiro](https://github.com/rouri404)
-- [Gabriel Kato Peres](https://github.com/kato8088)
-- [João Vitor de Matos Araujo](https://github.com/joaomatosq)
+- [Gabriel Couto Ribeiro](https://github.com/rouri404) - RM559579
+- [Gabriel Kato Peres](https://github.com/kato8088) - RM560000
+- [João Vitor de Matos Araujo](https://github.com/joaomatosq) - RM559246
 
 ## Visão Geral do Projeto
 Este projeto realiza uma análise abrangente sobre os salários na área de Ciência de Dados em diferentes países. O objetivo é entender os fatores que influenciam os salários e fornecer insights valiosos para profissionais e empresas do setor.
